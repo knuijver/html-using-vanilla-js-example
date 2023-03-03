@@ -1,0 +1,30 @@
+[
+  "div",
+  {
+    "style": "color: red; border: solid 2px; margin-top: 5px;"
+  },
+  [
+    [
+      "h1",
+      {
+        "style": "padding: 10px;",
+        "class": "text-title"
+      },
+      [null, null, "Sample 5.1"]
+    ],
+    [
+      "h2",
+      {
+        "style": "padding: 10px; color: green"
+      },
+      [null, null, "Sample 5.2"]
+    ],
+    [
+      "h3",
+      {
+        "style": "padding: 10px; color: blue"
+      },
+      [null, null, "Sample 5.3"]
+    ]
+  ]
+]
